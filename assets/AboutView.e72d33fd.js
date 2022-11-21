@@ -1,0 +1,1 @@
+import{o as a,c as n,a as r}from"./index.e3e1360e.js";const _=(t,e)=>{const o=t.__vccOpts||t;for(const[s,c]of e)o[s]=c;return o},d={setup(){}},p={class:"about"},i=r("h1",{class:"text-3xl font-extrabold"},"\u8FD8\u6CA1\u60F3\u597D\u5199\u70B9\u5565",-1),l=[i];function f(t,e,o,s,c,u){return a(),n("div",p,l)}const h=_(d,[["render",f]]);export{h as default};
